@@ -15,7 +15,7 @@ Imagem do projeto: https://github.com/MaduSales/StopWatch-ReactVite/assets/16654
 
 <br>
 
-Projeto feito com HTML, CSS, JavaScript, React.JS e Git de um cronômetro simples que permite o usuário de iniciar, pausar e reiniciar a contagem do tempo..   
+Projeto feito com HTML, CSS, JavaScript, React.JS e Git de um cronômetro simples que permite o usuário de iniciar, pausar e reiniciar a contagem do tempo. 
 <br>
 <br>
 <br>
